@@ -16,7 +16,7 @@ The dataset contains images categorized into six classes:
 
 Below is a sample image from the dataset:
 
-![Sample Dataset Image](Screenshot 2024-12-08 124429.png)
+![Sample Dataset Image](sample.png)
 
 ## Methods
 1. **Pre-Trained Model**: VGG19 was employed as the feature extractor with `include_top=False`.
